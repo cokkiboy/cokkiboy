@@ -7,10 +7,12 @@
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MongDB-47A248?style=flat-square&logo=MongDB&logoColor=white"/></a>
-<button href=" https://www.instagram.com/esports__devboi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a></button>
+
 </br>
+<br>
  🔥blog:https://m.blog.naver.com/esportsdev
- ☎️ contect:instaId @esports__dev 
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>@esports__dev
+ </br>
  
 
 
