@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MongDB-47A248?style=flat-square&logo=MongDB&logoColor=white"/></a>
 
-</br>
+
 
  <h2>☎️ contect</h2>
 <br>
