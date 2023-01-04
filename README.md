@@ -14,7 +14,7 @@
 <br>
   🔥blog:https://m.blog.naver.com/esportsdev
  </br>
-    ⭐ insta:esports__dev
+    ⭐ insta:"https://www.instagram.com/esports__devboi"
  
 
 
