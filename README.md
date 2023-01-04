@@ -7,7 +7,7 @@
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MongDB-47A248?style=flat-square&logo=MongDB&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/><h4>esports__devboi</h4></a>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>instagarm:" https://www.instagram.com/esports__devboi"
 
 </br>
 
