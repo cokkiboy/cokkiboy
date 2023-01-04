@@ -10,8 +10,8 @@
 
 </br>
 <br>
- 🔥blog:https://m.blog.naver.com/esportsdev
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>@esports__dev
+  🔥blog:https://m.blog.naver.com/esportsdev
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>>@esports__dev</a>
  </br>
  
 
