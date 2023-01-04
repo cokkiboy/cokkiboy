@@ -7,8 +7,8 @@
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MongDB-47A248?style=flat-square&logo=MongDB&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/><a href=" https://www.instagram.com/esports__devboi"></a></a>
-<a href=" https://www.instagram.com/esports__devboi"></a>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href=" https://www.instagram.com/esports__devboi">인스타주소</a>
 </br>
 
 
