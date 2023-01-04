@@ -13,8 +13,8 @@
  <h2>☎️ contect</h2>
 <br>
   🔥blog:https://m.blog.naver.com/esportsdev
-   ⭐ insta:esports__dev
  </br>
+    ⭐ insta:esports__dev
  
 
 
