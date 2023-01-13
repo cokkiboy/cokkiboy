@@ -12,7 +12,7 @@
 
 
 <h2> information</h2>
-name: seok hoo na
+<br>name: seok hoo na</br>
 residence: KOR
 
  <h2>☎️ contect</h2>
