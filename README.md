@@ -20,8 +20,8 @@ residence: KOR
 <br>
   🔥blog:<a href="https://m.blog.naver.com/esportsdev" target="_blank"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
  </br>
-    ⭐ insta:"https://www.instagram.com/esports__devboi"
- 
+    ⭐ insta:
+ <a href="https://www.instagram.com/esports__devboi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=naver&logoColor=white"/></a>
 
 
 
