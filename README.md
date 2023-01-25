@@ -1,7 +1,7 @@
 <h1>studying~</h1>
 
 <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>
- <a href="https://m.blog.naver.com/esportsdev" target="_blank"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+ 
 <img src="https://img.shields.io/badge/js-F7DF1E?style=flat-square&logo=js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
 
@@ -18,7 +18,7 @@ residence: KOR
 
  <h2>☎️ contect</h2>
 <br>
-  🔥blog:https://m.blog.naver.com/esportsdev
+  🔥blog:<a href="https://m.blog.naver.com/esportsdev" target="_blank"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
  </br>
     ⭐ insta:"https://www.instagram.com/esports__devboi"
  
