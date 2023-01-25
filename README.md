@@ -4,7 +4,7 @@
  
 <img src="https://img.shields.io/badge/js-F7DF1E?style=flat-square&logo=js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
-<a href="https://github.com/cokkiboy/-the-essence-of-java" target="_blank"><img src="https://img.shields.io/badge/Java--007396?style=flat-square&logo=Java&logoColor=white"/></a>
+
 <h2> database</h2>
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> 
