@@ -20,4 +20,5 @@ residence: KOR
 <br>
   🔥blog:<a href="https://m.blog.naver.com/esportsdev" target="_blank"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
  </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cokkiboy&layout=compact"><br><br>
+   <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cokkiboy&layout=compact"></br>
+
