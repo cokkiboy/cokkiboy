@@ -3,7 +3,7 @@
 
  
 <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>https://github.com/cokkiboy/spring_blog</a>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
 
 <h2> database</h2>
