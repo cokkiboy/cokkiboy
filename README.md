@@ -1,5 +1,5 @@
 
-<details>
+👓<details>
  <summary>
  배우고 있는것들
  <br>information<br/>  
