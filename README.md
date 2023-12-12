@@ -1,13 +1,11 @@
-
-<details>
- <summary>
-👓 배우고 있는것들
- <br>information<br/>  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=esports-devboy'git hub&fontSize=90" />
 <br>name: seok hoo na</br>
  residence: KOR
- 
+<details>
+ <summary>
+ 배우고 있는것들
+ <br>information<br/>  
 </summary>
-  
 <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
