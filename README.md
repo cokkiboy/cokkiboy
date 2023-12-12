@@ -1,12 +1,13 @@
 
 <details>
  <summary>
- 자바/코틀린 스프링 지망하는 개발자입니다.
+ 배우고 있는것들
  <br>information<br/>  
 <br>name: seok hoo na</br>
  residence: KOR
-  배우고 있는것들 
+ 
 </summary>
+  
 <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
