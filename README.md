@@ -6,8 +6,9 @@
 </summary>
 	<div align ="center">
 <br>name: seok hoo na</br>
- residence: KOR
-  인생모토 :"LOL-Esport 10년넘게 봤습니다. 개발 이렇게 몰두하는것을 지향하고있습니다."
+ residence: KOR </br>
+	
+ 인생모토 :"LOL-Esport 10년넘게 봤습니다. 개발 이렇게 몰두하는것을 지향하고있습니다." </br>
 	</div>
 	<div align="center">
 <h3>📚 Tech Stack 📚</h3>
