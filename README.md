@@ -2,7 +2,7 @@
 <details>
 <summary>
  I am preparing to become a Java/Kotlin backend developer.
-   information
+ information<br/>  
 <br>name: seok hoo na</br>
 </summary>
 
