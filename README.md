@@ -4,10 +4,10 @@
  I am preparing to become a Java/Kotlin backend developer.
  <br>information<br/>  
 <br>name: seok hoo na</br>
-</summary>
+
 
 residence: KOR
-</details>
+
 <h1>studying~</h1>
 
 
@@ -20,10 +20,9 @@ residence: KOR
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>
 <h2> database</h2>
 <br>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a> 
-
-
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
 
    <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cokkiboy&layout=compact"></br>
-
+</summary>
+</details>
