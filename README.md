@@ -4,7 +4,7 @@
  I am preparing to become a Java/Kotlin backend developer.
  <br>information<br/>  
 <br>name: seok hoo na</br>
-
+</summary>
 
 residence: KOR
 
@@ -24,5 +24,5 @@ residence: KOR
 
 
    <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cokkiboy&layout=compact"></br>
-</summary>
+
 </details>
