@@ -4,9 +4,10 @@
  I am preparing to become a Java/Kotlin backend developer.
  <br>information<br/>  
 <br>name: seok hoo na</br>
+ residence: KOR
+
 </summary>
 
-residence: KOR
 
 <h1>studying~</h1>
 
