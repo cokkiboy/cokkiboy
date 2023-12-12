@@ -28,7 +28,6 @@
 	 </div>
  </div>
   <div align="center">
-<p> most usedlanguage </p>
  <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cokkiboy&layout=compact"></br>
   </div>
 </details>
