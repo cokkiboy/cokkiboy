@@ -1,7 +1,12 @@
 
+<details>
 <summary>
-   HI 
+ I am preparing to become a Java/Kotlin backend developer.
 </summary>
+  <h2> information</h2>
+<br>name: seok hoo na</br>
+residence: KOR
+</details>
 <h1>studying~</h1>
 
 
@@ -18,8 +23,6 @@
 
 
 
-<h2> information</h2>
-<br>name: seok hoo na</br>
-residence: KOR
+
    <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cokkiboy&layout=compact"></br>
 
