@@ -1,13 +1,11 @@
 
-
-<summary>
+<details>
+ <summary>
  I am preparing to become a Java/Kotlin backend developer.
  <br>information<br/>  
 <br>name: seok hoo na</br>
  residence: KOR
-
 </summary>
-<details>
 <h1>studying~</h1>
 
 <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=js&logoColor=white"/></a>
