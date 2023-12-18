@@ -8,7 +8,7 @@
 <br>name: seok hoo na</br>
  residence: KOR </br>
 	
- 인생모토 :"중요한건 꺾이지않는 마음-Deft 김혁규" </br>
+ 인생모토 :"중요한건 꺾이지않는 마음-Deft-" </br>
 	</div>
 	<div align="center">
 <h3>📚 Tech Stack 📚</h3>
