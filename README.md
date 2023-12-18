@@ -8,7 +8,7 @@
 <br>name: seok hoo na</br>
  residence: KOR </br>
 	
- 인생모토 :"LOL-Esport 10년넘게 봤습니다. 개발 이렇게 몰두하는것을 지향하고있습니다." </br>
+ 인생모토 :"중요한건 꺾이지않는 마음-Deft 김혁규" </br>
 	</div>
 	<div align="center">
 <h3>📚 Tech Stack 📚</h3>
