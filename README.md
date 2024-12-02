@@ -7,7 +7,6 @@
 	<div align ="center">
 <br>name: seok hoo na</br>
  residence: KOR </br>
-
 	</div>
 	<div align="center">
 <h3>📚 Tech Stack 📚</h3>
