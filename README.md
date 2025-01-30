@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi+i'm+na+seok+hoo" alt="Typing SVG" /></a>
-<details>
+
 	<div align ="center">
 <br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=name%3A+seok+hoo+na" alt="Typing SVG" /></a></br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=+residence%3A+KOR" alt="Typing SVG" /></a> </br>
@@ -25,7 +25,7 @@
   <div align="center">
  <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cokkiboy&layout=compact"></br>
   </div>
-</details>
+
 
   
 
