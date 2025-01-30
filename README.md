@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=+residence%3A+KOR" alt="Typing SVG" /></a> </br>
 	</div>
 	<div align="center">
-<h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=%F0%9F%93%9A+Tech+Stack+%F0%9F%93%9A" alt="Typing SVG" /></a></h3>
+
 	
 <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=js&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>
@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 	</div>
  <div align="center">
- <p<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=%F0%9F%9B%A0+Tools+%F0%9F%9B%A0" alt="Typing SVG" /></a></p>
 	 <div align="center">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
