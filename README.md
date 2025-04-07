@@ -1,10 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=is any body out there?" alt="Typing SVG" /></a>
-<br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi  seokhoo Na " alt="Typing SVG" /></a></br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=+residence%3A+KOR" alt="Typing SVG" /></a> </br>
-	</div>
-	<div align="center">
 
 	
+
 <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=js&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
