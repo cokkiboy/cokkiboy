@@ -19,8 +19,10 @@
  <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cokkiboy&layout=compact"></br>
 	
  [![seok hoo Na's GitHub stats](https://github-readme-stats.vercel.app/api?username=cokkiboy)](https://github.com/cokkiboy/github-readme-stats) </br>
-  </div>
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=naseok1202)](https://solved.ac/naseok1202/)
 
+  </div>
+ 
 
   
 
