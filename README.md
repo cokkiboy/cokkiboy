@@ -23,7 +23,7 @@
  <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cokkiboy&layout=compact"></br>
   </div>
 
- [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cokkiboy)](https://github.com/cokkiboy/github-readme-stats)
+ [![seok hoo Na's GitHub stats](https://github-readme-stats.vercel.app/api?username=cokkiboy)](https://github.com/cokkiboy/github-readme-stats) </br>
 
   
 
