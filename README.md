@@ -21,9 +21,10 @@
  </div>
   <div align="center">
  <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cokkiboy&layout=compact"></br>
+	
+ [![seok hoo Na's GitHub stats](https://github-readme-stats.vercel.app/api?username=cokkiboy)](https://github.com/cokkiboy/github-readme-stats) </br>
   </div>
 
- [![seok hoo Na's GitHub stats](https://github-readme-stats.vercel.app/api?username=cokkiboy)](https://github.com/cokkiboy/github-readme-stats) </br>
 
   
 
